@@ -1,4 +1,4 @@
-ter#Chicken Tikka Masala
+#Butter CHicken / Chicken Tikka Masala
 
 ##Ingredients
 
