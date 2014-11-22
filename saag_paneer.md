@@ -29,20 +29,20 @@ Store browned paneer in a bowl of cold water.
 
 ##Saag
 
-2 Onions
-2 Roma Tomatos
-Spinich - One big package
-Garlic Ginger Paste
-	2" + inches of gingers worth
-Green Chilis
-Cillantro
-	A bunch? Half a bunch?
-Ghee
-Cumin Seeds
-Tumeric, coriander, red chilli powder
-Kasori Methi
-Lime
-Garam Masala Powder
+	2 Onions
+	2 Roma Tomatos
+	Spinich - One big package
+	Garlic Ginger Paste
+		2" + inches of gingers worth
+	Green Chilis
+	Cillantro
+		A bunch? Half a bunch?
+	Ghee
+	Cumin Seeds
+	Tumeric, coriander, red chilli powder
+	Kasori Methi
+	Lime
+	Garam Masala Powder
 
 Chop 2 onions
 
