@@ -9,78 +9,72 @@
  * 1 Tbsp kosher salt
  * 2 tsp kasori methi
  
-Heat Milk to gentle boil
+Heat Milk to gentle boil & mix in seasoning.
 
-Mix in seasoning
-
-Remove from heat
-
-Add Lime juice, stir, allow to curdle
+Remove from heat, add Lime juice, stir, allow to curdle
 
 Put in cheese cloth, rinse with cold water, press & drain 4 hrs to overnight
 
-**Next Day**
+**Cooking Day**
 
-Cut Paneer into cubes.
-
-Saute in skillet with a little oil until golden brown.
-
-Store browned paneer in a bowl of cold water.
+Cut Paneer into cubes. Saute in skillet with a little oil until golden brown. Store browned paneer in a bowl of cold water.
 
 ##Saag
 
-	2 Onions
-	2 Roma Tomatos
-	Spinich - One big package
-	Garlic Ginger Paste
-		2" + inches of gingers worth
-	Green Chilis
-	Cillantro
-		A bunch? Half a bunch?
-	Ghee
-	Cumin Seeds
-	Tumeric, coriander, red chilli powder
-	Kasori Methi
-	Lime
-	Garam Masala Powder
+ * 2 Onions, chopped
+ * 2 Roma Tomatos, chopped
+ * Spinich - One big package
+ * Garlic Ginger Paste
+   * 2" ginger
+   * 6 cloves garlic
+ * 2 Green Chilis
+ * Cillantro
+   * A bunch? Half a bunch?
+ * Ghee
+ * Cumin Seeds
+ * Tumeric
+ * Coriander Seed / Powder
+ * Garam Masala Powder
+ * Red chilli powder
+ * Kasori Methi
+ * Lime
 
-Chop 2 onions
 
-Chop 2 Roma Tomatos
+###Prep Spinach
 
-Rinse spinich and blanche for 3-4 min uncovered.
-
-Drain, rinse spinich
+Rinse spinich and blanche for 3-4 min uncovered. Drain & rinse.
 
 Puree in food processor
 
-Make green masala paste
+###Make green masala paste
 
-Garlic ginger paste
+Combine in food processor with salt and splash of water:
 
-green chilis
+ * Garlic ginger paste
+ * Green chilis
+ * Cillantro
 
-cillantro
+###Cook Saag
 
-Combine in food processor with salt and splash of water
-
-Heat ghee in pan
-
-crackle cumin
+Heat ghee in pan, crackle cumin.
 
 Add onions, saute with a little salt, to golden brown.
 
 Add green masala paste, saute until fragrent, oil collects on top
 
-add tumeric, coriander powder, red chili powder, cool for a couple minutes.
+Add spices & cook for a couple minutes:
 
-add tomatos, saute until turns into a paste.
+ * tumeric
+ * coriander powder
+ * red chili powder
+ 
+Add tomatos, saute until turns into a paste.
 
 Add spinich puree, cook a little
 
 Add kasori methi
 
-Add sqz lime juice
+Add A squeeze of lime juice
 
 Garam masala powder
 
