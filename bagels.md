@@ -38,7 +38,7 @@ Form the dough into a ball, and lightly coat it .5 tsp. of oil.
 
 Cover with a damp dishtowel, and let **rise 1-1.5 hours.**
 
-####Shape Bagels, 30min rise, Retard Overnight
+#### Shape Bagels, 30min rise, Retard Overnight
 
 Punch the dough down, and divide evenly into 6 large balls.
 
