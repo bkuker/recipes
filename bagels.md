@@ -1,10 +1,10 @@
-#Bagels
+# Bagels
 
 *Makes 6 bagels*
 
-###INGREDIENTS
+### INGREDIENTS
 
-####Dough:
+#### Dough:
 
  * 1 cup luke-warm water
  * .5 tsp. dry active yeast
@@ -14,15 +14,15 @@
  * .5 Tbsp. salt
  * 3 cups bread flour or high-gluten flour
 
-####Boil:
+#### Boil:
 
  * 2 qt water
  * 2 Tbsp Sugar *(Or Malt Powder)*
  * 1 Tbsp Baking Soda
  
-###DIRECTIONS
+### DIRECTIONS
 
-####Make Dough, 20min + 1-1.5hr rise
+#### Make Dough, 20min + 1-1.5hr rise
 
 In Mixer bowl combine the luke-warm water, yeast, and 1 Tbsp. sugar. Stir.
 
@@ -50,7 +50,7 @@ Cover with a damp dishcloth and proof **20-30 minutes**.
 
 **Cover with plastic and retard overnight if desired**
 
-####Cook
+#### Cook
 
 **Pre-heat the oven to 500 degrees.**
 
