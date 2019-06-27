@@ -1,18 +1,18 @@
 # Cured Egg Yolks
 
 ## Ingredients
-6 egg yolks
-2 cups (316g) kosher salt
-1 cup (220g) granulated sugar
-aromatics, spices, dried mushrooms of your choice
+* 6 egg yolks
+* 2 cups (316g) kosher salt
+* 1 cup (220g) granulated sugar
+* aromatics, spices, dried mushrooms of your choice
 
 ## Aromatics (Example)
-1 tablespoon (4g) coriander seeds
-1 tablespoons (4g) pink peppercorns
-1 teaspoon (2g) sichuan peppercorns
-1 teaspoon (2g) black peppercorns
-4 bay leaves
-1/3 cup (9g) dried chanterelle mushrooms
+* 1 tablespoon (4g) coriander seeds
+* 1 tablespoons (4g) pink peppercorns
+* 1 teaspoon (2g) sichuan peppercorns
+* 1 teaspoon (2g) black peppercorns
+* 4 bay leaves
+* 1/3 cup (9g) dried chanterelle mushrooms
 
 
 ## Instructions
