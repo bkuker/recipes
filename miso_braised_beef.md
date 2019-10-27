@@ -2,9 +2,9 @@
 
 https://foodwishes.blogspot.com/2019/10/miso-braised-beef-with-king-trumpet.html
 
-20 min work plus 2-3 hours braising.
+20 min work plus 2-3 hours braising. Serve with Mashed Potato and Veggies, garnish with green onion
 
-## Ingredients for 4 portions
+### Ingredients for 4 portions
 
 * 2 tablespoons peanut, or vegetable oil
 * 2 1/2 pounds beef chuck, or boneless beef short ribs, cut into 2-inch thick strips or chunks, seasoned with salt, freshly ground black pepper, cayenne
@@ -20,7 +20,7 @@ https://foodwishes.blogspot.com/2019/10/miso-braised-beef-with-king-trumpet.html
 * 1/4 cup sliced red chilies
 * 1/4 cups sliced green onions
 
-## Instructions
+### Instructions
 
 1. Season chuck with kosher salt, black pepper, cayenne
 1. Sear all four sides very well over high heat in peanut oil
@@ -34,7 +34,5 @@ https://foodwishes.blogspot.com/2019/10/miso-braised-beef-with-king-trumpet.html
 1. *Simmer 2-3 hours* covered, until beef is fork tender, flipping halfway through.
 1. Add vinegar, green onions, chilis
 1. Cook for 5 more minutes, adjust seasoning with salt or soy sauce
-
-Serve with Mashed Potato and Veggies, garnish with green onion
 
 
