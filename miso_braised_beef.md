@@ -1,7 +1,4 @@
-# Miso Braised Beef
-
-https://foodwishes.blogspot.com/2019/10/miso-braised-beef-with-king-trumpet.html
-
+## Miso Braised Beef
 20 min work plus 2-3 hours braising. Serve with Mashed Potato and Veggies, garnish with green onion
 
 ### Ingredients for 4 portions
@@ -34,3 +31,4 @@ https://foodwishes.blogspot.com/2019/10/miso-braised-beef-with-king-trumpet.html
 1. Cook for 5 more minutes, adjust seasoning with salt or soy sauce
 
 
+https://foodwishes.blogspot.com/2019/10/miso-braised-beef-with-king-trumpet.html
