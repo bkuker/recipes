@@ -5,7 +5,7 @@
 * 1 Medium red onion
 * 1/2 tsp sugar
 * 1/2 tsp salt
-* 3/4 c Vinegar (rice, white, apple cider)
+* 3/4 c Vinegar (rice, apple cider, red wine, a bit of each?)
 * 1 Clove garlic crushed
 * 5 Black peppercorns
 * 5 Allspice Berries
