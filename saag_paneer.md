@@ -1,6 +1,8 @@
-#Saag Paneer
+# Saag Paneer
 
-##Paneer
+## Paneer Cheese
+
+You can also just use feta.
 
 **Day Before**
 
@@ -19,7 +21,7 @@ Put in cheese cloth, rinse with cold water, press & drain 4 hrs to overnight
 
 Cut Paneer into cubes. Saute in skillet with a little oil until golden brown. Store browned paneer in a bowl of cold water.
 
-##Saag
+## Saag
 
  * 2 Onions, chopped
  * 2 Roma Tomatos, chopped
@@ -40,13 +42,13 @@ Cut Paneer into cubes. Saute in skillet with a little oil until golden brown. St
  * Lime
 
 
-###Prep Spinach
+### Prep Spinach
 
 Rinse spinich and blanche for 3-4 min uncovered. Drain & rinse.
 
 Puree in food processor
 
-###Make green masala paste
+### Make green masala paste
 
 Combine in food processor with salt and splash of water:
 
@@ -54,7 +56,7 @@ Combine in food processor with salt and splash of water:
  * Green chilis
  * Cillantro
 
-###Cook Saag
+### Cook Saag
 
 Heat ghee in pan, crackle cumin.
 
