@@ -1,6 +1,6 @@
-#Chili
+# Chili
 
-##Ingredients
+## Ingredients
 
 * Cook:
  * 1 lb Ground beef
@@ -20,7 +20,7 @@
  * 1 Bay leaf
 * 1-15½ oz Can kidney beans
 
-##Directions
+## Directions
 
 1. Cook and stir ground beef, onion and green pepper in large skillet until meat is brown and onion is tender. Drain off fat
 
