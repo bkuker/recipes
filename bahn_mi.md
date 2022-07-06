@@ -1,6 +1,6 @@
-#Bahn Mi
+# Bahn Mi
 
-##Do Chua
+## Do Chua
 
 Put into bowl or container
 
@@ -18,7 +18,7 @@ Drain and rinse well with cold water, then add brine:
 
 Marinate for at least 1 hour. Keeps up to 4 weeks.
 
-##Pork
+## Pork
 
 In Skillet
 
@@ -45,7 +45,7 @@ Cook 7-10 minutes, then stir in
  * 1/2 cup Mayonaise
  * 2 Tbsp chili paste
  
-##Sandwhich
+## Sandwhich
  
  * Bread
  * Mayo & Chili Sauce
