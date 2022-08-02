@@ -1,7 +1,7 @@
-#Shakshuka
+# Shakshuka
 **Eggs Poached in Spicy Tomato Sauce**
 
-###Ingredients
+### Ingredients
 
  * 1/4 cup olive oil
  * 5 Anaheim chiles or 3 jalapeños, stemmed, seeded, and finely chopped
@@ -16,7 +16,7 @@
  * 1 tablespoon chopped flat-leaf parsley
  * Warm pitas, for serving
  
-###Instructions
+### Instructions
 
 Heat oil in a 12-inch skillet over medium-high heat.
 
