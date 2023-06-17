@@ -9,7 +9,7 @@
   * 20g Olive Oil
   * 6g (1.5 tsp) yeast
 
-Combine flou & salt in bowl of a food processor fitted with the blade or dough blade attachment.
+Combine flour & salt in bowl of a food processor fitted with the blade or dough blade attachment.
 
 Add yeast, 20g olive oil, and water.
 
